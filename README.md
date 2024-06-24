@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Sayan090807
-- 👀 I’m interested in development, history, reading, and Marvel. :) 
-- 🌱 I’m currently learning react, node.js, html+CSS, Java, and luau.
-- 📫 How to reach me ...
+
 
 Discord: Fusion#0109
 Stack: 
